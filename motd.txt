@@ -1,4 +1,5 @@
-UPDATE 1.1.0
-- COSMETICS ARE HERE; Go to the tunnel to buy some epic cosmetics!
-- Added some epic music by Kraft Juice
-- Bug fixes
+UPDATE 1.1.1
+- Fixed Mod Stick Bug
+- Added music for other maps
+- Added... Cameras.
+- Fixed Bugs
