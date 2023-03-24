@@ -1,5 +1,6 @@
-UPDATE 1.1.1
-- Fixed Mod Stick Bug
-- Added music for other maps
-- Added... Cameras.
-- Fixed Bugs
+Monke World 2.0 Beta
+
+This is the 2.0 version of Monke World!
+Hope you enjoy!
+
+Note: This is EXTREMELY under developed. It is nowhere near finished.
